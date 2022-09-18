@@ -4,15 +4,15 @@
 
 Projeto desenvolvido para praticar habilidades de estudo.
 
-[Clique aqui para acessar](https://marqu1nhos.github.io/Projeto-de-HTML-e-CSS/)
+	:link: [Clique aqui para acessar](https://marqu1nhos.github.io/Projeto-de-HTML-e-CSS/)
 
-## Tecnologias
+## :hammer_and_wrench: Tecnologias
 
 - HTML
 - CSS
 - Figma
 - Github
 
-## Contato
+## :e-mail: Contato
 
 marcossinesio119@gmail.com
