@@ -1,5 +1,7 @@
 ## Galeria de Filmes e Séries
 
+![preview](./preview.png)
+
 Projeto desenvolvido para praticar habilidades de estudo.
 
 ## Tecnologias
