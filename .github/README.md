@@ -4,7 +4,7 @@
 
 Projeto desenvolvido para praticar habilidades de estudo.
 
-:link:[Clique aqui para acessar](https://marqu1nhos.github.io/Projeto-de-HTML-e-CSS/)
+:link:[Clique aqui para acessar](https://msinesio0.github.io/Projeto-de-HTML-e-CSS/)
 
 ## :hammer_and_wrench: Tecnologias
 
